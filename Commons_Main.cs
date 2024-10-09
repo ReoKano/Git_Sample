@@ -16,6 +16,7 @@ using Microsoft.Office.Interop.Excel;
 // 2024/06/16 : 012020048D : Task1 : Folder_Select()追加
 // 2024/06/22 : 012020048D : Task1 : WorkFolder_Create()追加
 // 2024/06/20 : 012020048D : Task2 : CallMacro()追加
+// 2024/06/20 : 012020048D : feature/sample_A_sub コメント追加
 //===================================================
 
 public class Commons
